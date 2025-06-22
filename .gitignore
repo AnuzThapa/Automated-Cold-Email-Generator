@@ -1,0 +1,4 @@
+.venv
+.env
+vectorstore/e8b725c2-094b-4177-9536-48aa3fd2faa1
+vectorstore/chroma.sqlite3
